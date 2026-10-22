@@ -180,6 +180,15 @@
     "docs/core-integration.md",
     "docs/architecture.md",
     "LICENSING.md",
-    "data/candidates/README.md"
+    "data/candidates/README.md",
+    "docs/audit.md",
+    "docs/deletions.md",
+    "docs/limitations.md",
+    "docs/measurement.md",
+    "docs/migration.md",
+    "docs/phase2-report.md",
+    "docs/phase2.md",
+    "docs/refactor-report.md",
+    "docs/usage.md"
   ]
 }
